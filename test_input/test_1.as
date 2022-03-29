@@ -1,0 +1,27 @@
+10 5 5 6
+8585217
+8781835
+11665421
+13828096
+10223616
+14286860
+23265280
+16842753
+16842749
+25165824
+5
+0
+10
+12
+6
+Start T 6
+Five D 2
+Actua U 0
+Adder U 0
+Subber U 0
+3 sw Actua
+4 lw Adder
+5 sw Five
+1 .fill Subber
+3 .fill Five
+4 .fill Start
